@@ -150,7 +150,14 @@ CMakeFiles/TP1.dir/TP1/TP1.cpp.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc \
+ /usr/include/c++/11/bits/istream.tcc /usr/include/unistd.h \
+ /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /usr/include/x86_64-linux-gnu/bits/environments.h \
+ /usr/include/x86_64-linux-gnu/bits/confname.h \
+ /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+ /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+ /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+ /usr/include/linux/close_range.h \
  /home/emil/Bureau/moteurJeu/TP1_code/external/glew-1.13.0/include/GL/glew.h \
  /usr/include/GL/glu.h /usr/include/GL/gl.h \
  /home/emil/Bureau/moteurJeu/TP1_code/external/glm-0.9.7.1/glm/gtc/type_ptr.hpp \
@@ -279,4 +286,6 @@ CMakeFiles/TP1.dir/TP1/TP1.cpp.o: \
  /home/emil/Bureau/moteurJeu/TP1_code/external/glm-0.9.7.1/glm/gtc/matrix_transform.inl \
  /home/emil/Bureau/moteurJeu/TP1_code/./common/shader.hpp \
  /home/emil/Bureau/moteurJeu/TP1_code/./common/objloader.hpp \
- /home/emil/Bureau/moteurJeu/TP1_code/./common/vboindexer.hpp
+ /home/emil/Bureau/moteurJeu/TP1_code/./common/vboindexer.hpp \
+ /home/emil/Bureau/moteurJeu/TP1_code/./common/stb_image.h \
+ /usr/include/c++/11/math.h
