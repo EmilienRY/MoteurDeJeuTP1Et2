@@ -333,7 +333,9 @@ CMakeFiles/TP1.dir/TP1/TP1.cpp.o: ../TP1/TP1.cpp \
   ../common/objloader.hpp \
   ../common/vboindexer.hpp \
   ../common/stb_image.h \
-  /usr/include/c++/11/math.h
+  /usr/include/c++/11/math.h \
+  ../common/stb_perlin.h \
+  /usr/include/c++/11/ctime
 
 CMakeFiles/TP1.dir/common/controls.cpp.o: ../common/controls.cpp \
   /usr/include/stdc-predef.h \
@@ -1436,6 +1438,8 @@ CMakeFiles/TP1.dir/common/vboindexer.cpp.o: ../common/vboindexer.cpp \
 
 /usr/include/GL/glext.h:
 
+/usr/include/c++/11/ctime:
+
 /usr/include/c++/11/math.h:
 
 ../common/vboindexer.hpp:
@@ -1567,6 +1571,8 @@ CMakeFiles/TP1.dir/common/vboindexer.cpp.o: ../common/vboindexer.cpp \
 /usr/include/unistd.h:
 
 /usr/include/c++/11/bits/stl_algobase.h:
+
+../common/stb_perlin.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
 

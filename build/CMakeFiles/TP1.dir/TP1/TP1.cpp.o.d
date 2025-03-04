@@ -288,4 +288,6 @@ CMakeFiles/TP1.dir/TP1/TP1.cpp.o: \
  /home/emil/Bureau/moteurJeu/TP1_code/./common/objloader.hpp \
  /home/emil/Bureau/moteurJeu/TP1_code/./common/vboindexer.hpp \
  /home/emil/Bureau/moteurJeu/TP1_code/./common/stb_image.h \
- /usr/include/c++/11/math.h
+ /usr/include/c++/11/math.h \
+ /home/emil/Bureau/moteurJeu/TP1_code/./common/stb_perlin.h \
+ /usr/include/c++/11/ctime
